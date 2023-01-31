@@ -479,7 +479,7 @@ h1::selection {
 
   /* ABOUT SECTION ENDS HERE */
 
-  /* PORTFOIO SECTION STARTS HERE */
+  /* PORTFOLIO SECTION STARTS HERE */
 
   #portfolio {
     
@@ -772,14 +772,8 @@ h1::selection {
 
   .linkedin,
   .twitter,
-  .behance,
-  .dribbble,
-  .github,
-  .hashnode,
-  .medium,
-  .instagram,
-  .youtube,
-  .facebook {
+
+   .github {
     color: var(--Black);
     font-size: 20px;
     margin: 20px;
